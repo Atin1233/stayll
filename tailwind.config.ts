@@ -24,6 +24,12 @@ export default {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        stayll: {
+          blue: "hsl(var(--stayll-blue))",
+          "blue-light": "hsl(var(--stayll-blue-light))",
+          green: "hsl(var(--stayll-green))",
+          "green-light": "hsl(var(--stayll-green-light))",
+        },
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
